@@ -6,6 +6,7 @@ Notes and tools to debug Android APK files
 `brew install apktool`  
 `brew install dex2jar`  
 `brew install cfr-decompiler`  
+`brew install procyon-decompiler`  
 
 # Android Tools  
 ### Sign APK  
