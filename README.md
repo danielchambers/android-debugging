@@ -2,7 +2,7 @@
 Notes and tools to debug Android APK files
 
 # Tools  
-`brew install android-platform-tools`  
+`brew cask install android-platform-tools`  
 `brew install apktool`  
 `brew install dex2jar`  
 `brew install cfr-decompiler`  
